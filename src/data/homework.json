@@ -5,7 +5,7 @@
     "title": "PLSV",
     "description": "Mengerjakan soal PLSV di Google Classroom di Buku Tulis.",
     "dueDate": "2025-11-02",
-    "status": "pending",
+    "status": "completed",
     "points": 100
   },
   {
@@ -14,7 +14,7 @@
     "title": "Asas BLack",
     "description": "Mengerjakan 3 soal Asas Black.",
     "dueDate": "2025-11-02",
-    "status": "pending",
+    "status": "completed",
     "points": 100
   },
   {
@@ -23,7 +23,7 @@
     "title": "Latihan Soal",
     "description": "Mengerjakan 40 SOAL di Google Classroom.",
     "dueDate": "2025-11-02",
-    "status": "pending",
+    "status": "completed",
     "points": 100
   }
 ]
