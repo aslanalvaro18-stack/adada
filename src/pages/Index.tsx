@@ -29,11 +29,11 @@ const Index = () => {
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-4 animate-bounce-in">
             <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent animate-shimmer bg-[length:200%_auto] drop-shadow-[0_0_30px_rgba(0,150,200,0.5)]" style={{ WebkitTextStroke: '1px rgba(0,150,200,0.3)' }}>
-              Student Portal
+              7 Cah Juara
             </span>
           </h1>
           <p className="text-center text-muted-foreground text-lg max-w-2xl mx-auto animate-fade-in">
-            Your gateway to academic excellence and class information
+            Semangat, Berjuang , SUKSES!!
           </p>
         </div>
       </header>
@@ -119,7 +119,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="mt-16 py-8 border-t border-border/50 backdrop-blur-sm animate-fade-in">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p className="hover:animate-wiggle inline-block">© 2024 Student Portal. All data can be edited via JSON files.</p>
+          <p className="hover:animate-wiggle inline-block">© 7CahJuara 2025.</p>
         </div>
       </footer>
     </div>
