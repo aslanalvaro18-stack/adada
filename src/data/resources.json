@@ -1,50 +1,10 @@
 [
   {
     "id": 1,
-    "category": "Study Materials",
-    "title": "Mathematics Formula Sheet",
-    "description": "Comprehensive formula reference for all chapters",
-    "type": "PDF",
-    "link": "#"
-  },
-  {
-    "id": 2,
-    "category": "Study Materials",
-    "title": "Physics Lab Manual",
-    "description": "Complete guide for laboratory experiments",
-    "type": "PDF",
-    "link": "#"
-  },
-  {
-    "id": 3,
-    "category": "Video Lectures",
-    "title": "Calculus Fundamentals",
-    "description": "Video series covering basic to advanced calculus",
-    "type": "Video",
-    "link": "#"
-  },
-  {
-    "id": 4,
-    "category": "Practice Tests",
-    "title": "Midterm Practice Questions",
-    "description": "Sample questions with solutions",
-    "type": "PDF",
-    "link": "#"
-  },
-  {
-    "id": 5,
-    "category": "Tools",
-    "title": "Scientific Calculator Guide",
-    "description": "How to use your calculator effectively",
-    "type": "PDF",
-    "link": "#"
-  },
-  {
-    "id": 6,
-    "category": "Video Lectures",
-    "title": "English Grammar Masterclass",
-    "description": "Advanced grammar concepts explained",
-    "type": "Video",
+    "category": "Bentar",
+    "title": "Atmin Malas Nambah",
+    "description": "Bantu sukii",
+    "type": "TXT",
     "link": "#"
   }
 ]
