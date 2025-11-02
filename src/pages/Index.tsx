@@ -46,25 +46,25 @@ const Index = () => {
               value="biodata" 
               className="data-[state=active]:bg-gradient-primary data-[state=active]:text-primary-foreground transition-all"
             >
-              Class Info
+              Info Kelas
             </TabsTrigger>
             <TabsTrigger 
               value="announcements"
               className="data-[state=active]:bg-gradient-primary data-[state=active]:text-primary-foreground transition-all"
             >
-              Announcements
+              Pengumuman
             </TabsTrigger>
             <TabsTrigger 
               value="homework"
               className="data-[state=active]:bg-gradient-primary data-[state=active]:text-primary-foreground transition-all"
             >
-              Homework
+              Tugas Rumah
             </TabsTrigger>
             <TabsTrigger 
               value="schedule"
               className="data-[state=active]:bg-gradient-primary data-[state=active]:text-primary-foreground transition-all"
             >
-              Schedule
+              Jadwal
             </TabsTrigger>
             <TabsTrigger 
               value="resources"
