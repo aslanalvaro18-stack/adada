@@ -1,14 +1,17 @@
 [
   {
-    "day": "Monday",
+    "day": "Senin",
     "classes": [
-      { "time": "08:00 - 09:30", "subject": "Mathematics", "room": "A-101", "teacher": "Dr. Smith" },
-      { "time": "10:00 - 11:30", "subject": "Physics", "room": "B-205", "teacher": "Prof. Johnson" },
-      { "time": "13:00 - 14:30", "subject": "English", "room": "C-301", "teacher": "Ms. Williams" }
+      { "time": "06:30 - 07:15", "subject": "Upacara Pelantikan", "room": "Lapangan", "teacher": "Tidak Ada" },
+      { "time": "07:30 - 10:00", "subject": "Nusantara One Day", "room": "Lapangan", "teacher": "OSIS dan MPK" },
+      { "time": "10:00 - 10:30", "subject": "Istirahat", "room": "IPA", "teacher": "?" },
+      { "time": "12:30 - 13:10", "subject": "Istirahat 2", "room": "OSOL", "teacher": "Bu Nia" },
+      { "time": "13:10 - 14:30", "subject": "Informatika", "room": "OSOL", "teacher": "Bu Nia" },
+      { "time": "14:30 - 16:00", "subject": "KIS", "room": "Belum Tau", "teacher": "Bu Dewi" }
     ]
   },
   {
-    "day": "Tuesday",
+    "day": "Selasa",
     "classes": [
       { "time": "08:00 - 09:30", "subject": "Computer Science", "room": "D-102", "teacher": "Dr. Brown" },
       { "time": "10:00 - 11:30", "subject": "History", "room": "A-203", "teacher": "Prof. Davis" },
@@ -16,7 +19,7 @@
     ]
   },
   {
-    "day": "Wednesday",
+    "day": "Rabu",
     "classes": [
       { "time": "08:00 - 09:30", "subject": "Mathematics", "room": "A-101", "teacher": "Dr. Smith" },
       { "time": "10:00 - 11:30", "subject": "Physical Education", "room": "Gym", "teacher": "Coach Wilson" },
@@ -24,7 +27,7 @@
     ]
   },
   {
-    "day": "Thursday",
+    "day": "Kamis",
     "classes": [
       { "time": "08:00 - 09:30", "subject": "Physics", "room": "B-205", "teacher": "Prof. Johnson" },
       { "time": "10:00 - 11:30", "subject": "English", "room": "C-301", "teacher": "Ms. Williams" },
@@ -32,7 +35,7 @@
     ]
   },
   {
-    "day": "Friday",
+    "day": "Jum'at",
     "classes": [
       { "time": "08:00 - 09:30", "subject": "History", "room": "A-203", "teacher": "Prof. Davis" },
       { "time": "10:00 - 11:30", "subject": "Chemistry", "room": "B-104", "teacher": "Dr. Miller" },
