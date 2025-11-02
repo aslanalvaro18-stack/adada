@@ -35,7 +35,7 @@ export const BiodataSection = ({ data }: BiodataSectionProps) => {
                 <div className="p-2 rounded-lg bg-primary/20 group-hover:animate-pulse-slow">
                   <Users className="w-5 h-5 text-primary group-hover:animate-wiggle" />
                 </div>
-                <span className="text-sm text-muted-foreground">Total Students</span>
+                <span className="text-sm text-muted-foreground">Jumlah Siswa</span>
               </div>
               <p className="text-2xl font-bold text-foreground">{data.totalStudents}</p>
             </div>
@@ -45,7 +45,7 @@ export const BiodataSection = ({ data }: BiodataSectionProps) => {
                 <div className="p-2 rounded-lg bg-secondary/20 group-hover:animate-bounce-in">
                   <TrendingUp className="w-5 h-5 text-secondary group-hover:animate-float" />
                 </div>
-                <span className="text-sm text-muted-foreground">Average Grade</span>
+                <span className="text-sm text-muted-foreground">Rata - Rata Nilai</span>
               </div>
               <p className="text-2xl font-bold text-foreground">{data.stats.averageGrade}</p>
             </div>
@@ -55,14 +55,14 @@ export const BiodataSection = ({ data }: BiodataSectionProps) => {
                 <div className="p-2 rounded-lg bg-accent/20 group-hover:animate-flip">
                   <Calendar className="w-5 h-5 text-accent group-hover:animate-spin-slow" />
                 </div>
-                <span className="text-sm text-muted-foreground">Attendance</span>
+                <span className="text-sm text-muted-foreground">Persen Kehadiran</span>
               </div>
               <p className="text-2xl font-bold text-foreground">{data.stats.attendanceRate}</p>
             </div>
           </div>
           
           <div className="space-y-2">
-            <p className="text-muted-foreground">Class Teacher: <span className="font-semibold text-foreground">{data.classTeacher}</span></p>
+            <p className="text-muted-foreground">Wali Kelas: <span className="font-semibold text-foreground">{data.classTeacher}</span></p>
             <p className="text-muted-foreground leading-relaxed">{data.description}</p>
           </div>
         </div>
@@ -73,7 +73,7 @@ export const BiodataSection = ({ data }: BiodataSectionProps) => {
           <div className="p-2 rounded-lg bg-gradient-accent animate-glow">
             <Award className="w-5 h-5 text-primary-foreground animate-spin-slow" />
           </div>
-          <h2 className="text-xl font-bold text-foreground">Class Achievements</h2>
+          <h2 className="text-xl font-bold text-foreground">Kejuaraan Kelas</h2>
         </div>
         <ul className="space-y-3">
           {data.achievements.map((achievement, idx) => (
