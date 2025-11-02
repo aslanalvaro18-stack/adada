@@ -5,6 +5,7 @@
       { "time": "06:30 - 07:15", "subject": "Upacara Pelantikan", "room": "Lapangan", "teacher": "Tidak Ada" },
       { "time": "07:30 - 10:00", "subject": "Nusantara One Day", "room": "Lapangan", "teacher": "OSIS dan MPK" },
       { "time": "10:00 - 10:30", "subject": "Istirahat", "room": "IPA", "teacher": "?" },
+      { "time": "10:30 - 12:30", "subject": "IPA", "room": "IPA", "teacher": "?" },
       { "time": "12:30 - 13:10", "subject": "Istirahat 2", "room": "OSOL", "teacher": "Bu Nia" },
       { "time": "13:10 - 14:30", "subject": "Informatika", "room": "OSOL", "teacher": "Bu Nia" },
       { "time": "14:30 - 16:00", "subject": "KIS", "room": "Belum Tau", "teacher": "Bu Dewi" }
