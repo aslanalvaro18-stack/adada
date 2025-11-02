@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to New Semester!",
+    "content": "Get ready for an exciting semester ahead. Check your schedule and prepare your materials.",
+    "date": "2024-01-15",
+    "priority": "high",
+    "author": "Admin"
+  },
+  {
+    "id": 2,
+    "title": "Midterm Exam Schedule",
+    "content": "Midterm exams will be held from March 15-20. Please review the detailed schedule in the resources section.",
+    "date": "2024-02-28",
+    "priority": "high",
+    "author": "Academic Office"
+  },
+  {
+    "id": 3,
+    "title": "Library Hours Extended",
+    "content": "The library will now be open until 10 PM on weekdays to support your studies.",
+    "date": "2024-01-20",
+    "priority": "medium",
+    "author": "Library Department"
+  },
+  {
+    "id": 4,
+    "title": "Student Workshop: Study Skills",
+    "content": "Join us for a workshop on effective study techniques this Friday at 3 PM in Room 201.",
+    "date": "2024-01-25",
+    "priority": "low",
+    "author": "Student Services"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "className": "Class 10-A",
+  "academicYear": "2023-2024",
+  "classTeacher": "Ms. Sarah Anderson",
+  "totalStudents": 32,
+  "description": "A diverse and talented group of students excelling in academics, sports, and extracurricular activities.",
+  "achievements": [
+    "First place in Inter-school Science Fair 2023",
+    "Champions in Regional Debate Competition",
+    "Excellence Award in Mathematics Olympiad"
+  ],
+  "stats": {
+    "averageGrade": "A",
+    "attendanceRate": "96%",
+    "activeProjects": 8
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "day": "Monday",
+    "classes": [
+      { "time": "08:00 - 09:30", "subject": "Mathematics", "room": "A-101", "teacher": "Dr. Smith" },
+      { "time": "10:00 - 11:30", "subject": "Physics", "room": "B-205", "teacher": "Prof. Johnson" },
+      { "time": "13:00 - 14:30", "subject": "English", "room": "C-301", "teacher": "Ms. Williams" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "classes": [
+      { "time": "08:00 - 09:30", "subject": "Computer Science", "room": "D-102", "teacher": "Dr. Brown" },
+      { "time": "10:00 - 11:30", "subject": "History", "room": "A-203", "teacher": "Prof. Davis" },
+      { "time": "13:00 - 14:30", "subject": "Chemistry", "room": "B-104", "teacher": "Dr. Miller" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "classes": [
+      { "time": "08:00 - 09:30", "subject": "Mathematics", "room": "A-101", "teacher": "Dr. Smith" },
+      { "time": "10:00 - 11:30", "subject": "Physical Education", "room": "Gym", "teacher": "Coach Wilson" },
+      { "time": "13:00 - 14:30", "subject": "Art", "room": "E-201", "teacher": "Ms. Taylor" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "classes": [
+      { "time": "08:00 - 09:30", "subject": "Physics", "room": "B-205", "teacher": "Prof. Johnson" },
+      { "time": "10:00 - 11:30", "subject": "English", "room": "C-301", "teacher": "Ms. Williams" },
+      { "time": "13:00 - 14:30", "subject": "Computer Science", "room": "D-102", "teacher": "Dr. Brown" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "classes": [
+      { "time": "08:00 - 09:30", "subject": "History", "room": "A-203", "teacher": "Prof. Davis" },
+      { "time": "10:00 - 11:30", "subject": "Chemistry", "room": "B-104", "teacher": "Dr. Miller" },
+      { "time": "13:00 - 14:30", "subject": "Mathematics", "room": "A-101", "teacher": "Dr. Smith" }
+    ]
+  }
+]
