@@ -6,7 +6,7 @@ interface AnnouncementCardProps {
   title: string;
   content: string;
   date: string;
-  priority: "high" | "medium" | "low";
+  priority: "Penting" | "Lumayan Penting" | "Kurang Penting";
   author: string;
 }
 
