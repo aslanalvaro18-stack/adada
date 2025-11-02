@@ -7,7 +7,7 @@ interface HomeworkCardProps {
   title: string;
   description: string;
   dueDate: string;
-  status: "hari ini" | "masih lama" | "kurang dari seminggu";
+  status: "pending" | "in-progress" | "completed";
   points: number;
 }
 
