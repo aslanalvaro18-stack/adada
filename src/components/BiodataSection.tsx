@@ -55,7 +55,7 @@ export const BiodataSection = ({ data }: BiodataSectionProps) => {
                 <div className="p-2 rounded-lg bg-accent/20 group-hover:animate-flip">
                   <Calendar className="w-5 h-5 text-accent group-hover:animate-spin-slow" />
                 </div>
-                <span className="text-sm text-muted-foreground">Persen Kehadiran</span>
+                <span className="text-sm text-muted-foreground">Kehadiran</span>
               </div>
               <p className="text-2xl font-bold text-foreground">{data.stats.attendanceRate}</p>
             </div>
