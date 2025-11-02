@@ -1,4 +1,4 @@
-import { BookOpen, Calendar, Award } from "lucide-react";
+limport { BookOpen, Calendar, Award } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
@@ -7,7 +7,7 @@ interface HomeworkCardProps {
   title: string;
   description: string;
   dueDate: string;
-  status: "pending" | "in-progress" | "completed";
+  status: "hari ini" | "masih lama" | "kurang dari seminggu";
   points: number;
 }
 
@@ -18,9 +18,9 @@ const statusColors = {
 };
 
 const statusLabels = {
-  pending: "Pending",
-  "in-progress": "In Progress",
-  completed: "Completed",
+  pending: "Masih Lama",
+  "in-progress": "Kurang dari Seminggu",
+  completed: "Hari Ini",
 };
 
 export const HomeworkCard = ({ subject, title, description, dueDate, status, points }: HomeworkCardProps) => {
@@ -58,7 +58,7 @@ export const HomeworkCard = ({ subject, title, description, dueDate, status, poi
           </div>
           <div className="flex items-center gap-1 text-sm font-medium text-accent">
             <Award className="w-4 h-4" />
-            <span>{points} pts</span>
+            <span>{points} poin</span>
           </div>
         </div>
       </div>
