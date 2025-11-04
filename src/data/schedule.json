@@ -14,9 +14,10 @@
   {
     "day": "Selasa",
     "classes": [
-      { "time": "08:00 - 09:30", "subject": "Computer Science", "room": "D-102", "teacher": "Dr. Brown" },
-      { "time": "10:00 - 11:30", "subject": "History", "room": "A-203", "teacher": "Prof. Davis" },
-      { "time": "13:00 - 14:30", "subject": "Chemistry", "room": "B-104", "teacher": "Dr. Miller" }
+      { "time": "06:15 - 07:00", "subject": "ETHICS", "room": "C3", "teacher": "Ms. Putri" },
+      { "time": "07:00 - 07:20", "subject": "Literasi", "room": "Dimana saja", "teacher": "Diri sendiri" },
+      { "time": "07:20 - 09:20", "subject": "Bahasa Inggris", "room": "S3", "teacher": "Ms. Sanie" },
+      { "time": "09:20 - 10:00", "subject": "IPS", "room": "N1", "teacher": "Bu Annisa" },
     ]
   },
   {
