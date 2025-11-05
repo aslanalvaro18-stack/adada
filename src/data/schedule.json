@@ -18,6 +18,7 @@
       { "time": "07:00 - 07:20", "subject": "Literasi", "room": "Dimana saja", "teacher": "Diri sendiri" },
       { "time": "07:20 - 09:20", "subject": "Bahasa Inggris", "room": "S3", "teacher": "Ms. Sanie" },
       { "time": "09:20 - 10:00", "subject": "IPS", "room": "N1", "teacher": "Bu Annisa" },
+      { "time": ": ?.", "subject": "?!?", "room": ".", "teacher": "??" }
     ]
   },
   {
